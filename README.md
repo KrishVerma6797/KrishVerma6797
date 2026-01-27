@@ -97,17 +97,7 @@ Java OOP-based banking simulation.
 </p>
 
 ---
-## 🟡 GitHub Activity (Pacman)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/KrishVerma6797/KrishVerma6797/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/KrishVerma6797/KrishVerma6797/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-       src="https://raw.githubusercontent.com/KrishVerma6797/KrishVerma6797/output/pacman-contribution-graph.svg">
-</picture>
----
 
 ## 📫 Connect With Me
 
