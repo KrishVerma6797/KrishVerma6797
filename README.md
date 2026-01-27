@@ -9,7 +9,7 @@
 <h1 align="center">Hey 👋, I'm Krish Verma</h1>
 
 <p align="center">
-  🚀 BTech CSE (AI & ML) ’28 | AI/ML • Data Science • Java | GSSoC’25 Contributor
+  🚀 BTech CSE (AI & ML) ’28 | AI/ML • Python • Java | GSSoC’25 Contributor
 </p>
 
 <p align="center">
@@ -22,19 +22,17 @@
 
 ---
 
-## 🌱 About Me
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KrishVerma6797/KrishVerma6797/main/assets/3d-avatar.gif" width="230" />
-</p>
-
-I’m a **Computer Science undergraduate specializing in AI & ML**, focused on **strong fundamentals, real-world projects, and open-source learning**.
-
-- 💻 Programming in **Python, Java, C & C++**
-- 🧠 Strong focus on **DSA & problem-solving**
-- 🤖 Interested in **AI / ML & Data Science**
-- 🌍 Active **open-source contributor (GSSoC’25)**
+## 🌱 About Me  
+I’m a Computer Science undergraduate specializing in AI & ML, focused on strong fundamentals, real-world projects, and open-source learning.
+- 💻 Programming in Python, Java, C & C++
+- 🧠 Strong focus on DSA & problem-solving
+- 🤖 Interested in AI / ML & Data Science
+- 🌍 Active open-source contributor (GSSoC’25)
 - 📈 Regular GitHub participation
+
+---
+
+![snake gif](https://github.com/KrishVerma6797/KrishVerma6797/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -55,11 +53,23 @@ I’m a **Computer Science undergraduate specializing in AI & ML**, focused on *
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-ML-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-API-orange?style=for-the-badge" />
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- Data Science / ML -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
+
 
 ---
 
