@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Java+%26+Python+Developer;DSA+with+C%2FC%2B%2B;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Java+%26+Python+Developer;DSA+with+C%2FC%2B%2B%2FPython;Open+Source+Contributor" />
 </p>
 
 <p align="center">
