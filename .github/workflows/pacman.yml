@@ -1,9 +1,9 @@
 name: Generate Pacman Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -12,12 +12,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman graph
-        uses: maurodesouza/profile-readme-generator@main
+      - name: Generate Pacman SVG
+        uses: Platane/snk@v3
         with:
-          github_username: KrishVerma6797
+          github_user_name: KrishVerma6797
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
+          animation: pacman
 
-      - name: Push to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
