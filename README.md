@@ -49,7 +49,7 @@ I’m a Computer Science undergraduate specializing in AI & ML, focused on stron
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,numpy,pandas,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,sklearn,discord" />
 </p>
 
 <p align="center">
