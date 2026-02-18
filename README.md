@@ -43,6 +43,33 @@ I’m a Computer Science undergraduate specializing in AI & ML, focused on stron
 
 ---
 
+## Badges
+
+<p align="center">
+  <img src="https://developers.google.com/static/profile/badges/playlists/speed-up-data-analytics-GPUs/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/get-certified/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/gdg/chapter/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/gdg/discovery/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/skillsboost/earned-badge/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/events/community/build-with-ai/2026/attendee/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/playlists/nvidia-deploy-with-gen-ai/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/sdlcagents/gca-agents/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/gdg/member/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/firebasestudio/firebase-studio/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/innovators/maps/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/community/gdg/GDGoC/member/badge.svg" width="90" />
+  <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="90" />
+  
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
