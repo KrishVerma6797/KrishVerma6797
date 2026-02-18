@@ -32,9 +32,6 @@ I’m a Computer Science undergraduate specializing in AI & ML, focused on stron
 
 ---
 
-![snake gif](https://github.com/KrishVerma6797/KrishVerma6797/blob/output/github-snake-dark.svg)
-
----
 
 ## 🏆 GitHub Achievements
 
@@ -74,6 +71,9 @@ I’m a Computer Science undergraduate specializing in AI & ML, focused on stron
 
 ---
 
+![snake gif](https://github.com/KrishVerma6797/KrishVerma6797/blob/output/github-snake-dark.svg)
+
+---
 ## 🚀 Featured Projects
 
 ### ⭐ House Price Prediction
