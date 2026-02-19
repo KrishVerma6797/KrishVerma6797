@@ -70,6 +70,16 @@ I’m a Computer Science undergraduate specializing in AI & ML, focused on stron
 
 ---
 
+## 🏆 LeetCode Achievements
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="90" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="90" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="90" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
