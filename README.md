@@ -65,6 +65,10 @@ I’m a Computer Science undergraduate specializing in AI & ML, focused on stron
   <img src="https://developers.google.com/static/profile/badges/community/innovators/maps/badge.svg" width="90" />
   <img src="https://developers.google.com/static/profile/badges/community/gdg/GDGoC/member/badge.svg" width="90" />
   <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="90" />
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" width="90" />
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" width="90" />
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&alt=media" width="90" />
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media" width="90" />
   
 </p>
 
