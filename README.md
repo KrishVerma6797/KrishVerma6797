@@ -83,6 +83,8 @@ I’m a Computer Science undergraduate specializing in AI & ML, focused on stron
 </p>
 
 ---
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishVerma6797&theme=react-dark&hide_border=true)
+---
 
 ## 🛠️ Tech Stack
 
