@@ -136,11 +136,7 @@ Java OOP-based banking simulation.
 
 🔗 https://github.com/KrishVerma6797/BANK-ACCOUNT-MANAGEMENT-JAVA
 
----
-## ⏳ WakaTime Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 ---
 ## 📊 GitHub Stats
 
