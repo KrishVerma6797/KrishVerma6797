@@ -1,7 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=header" width="100%">
+
 <!-- ===================== -->
 <!--        HEADER         -->
-<!-- ===================== -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrishVerma6797/KrishVerma6797/main/assets/3d-header.gif" width="100%" />
 </p>
@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=KrishVerma6797&style=for-the-badge" />
 </p>
 
----
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌱 About Me  
 I’m a Computer Science undergraduate specializing in AI & ML, focused on strong fundamentals, real-world projects, and open-source learning.
@@ -83,7 +83,7 @@ I’m a Computer Science undergraduate specializing in AI & ML, focused on stron
 </p>
 
 ---
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishVerma6797&theme=react-dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishVerma6797&theme=tokyo-night&area=true&hide_border=true)
 ---
 
 ## 🛠️ Tech Stack
@@ -141,23 +141,23 @@ Java OOP-based banking simulation.
 
 ---
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishVerma6797&show_icons=true&theme=dark" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=KrishVerma6797&theme=tokyonight&hide_border=true" />
+</p>>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishVerma6797&layout=compact&theme=dark" />
-</p>
 
 ---
 
 
-## 📫 Connect With Me
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/KrishVerma6797?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 
-- **Email:** krishverma6797@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/krish-verma-6797/  
-- **GitHub:** https://github.com/KrishVerma6797
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-verma-87ab9b324/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/KrishVerma6797)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishverma6797@gmail.com)
 
 
 
@@ -166,3 +166,5 @@ Java OOP-based banking simulation.
 <p align="center">
   💜 Built with consistency • Thanks for visiting 🚀
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer" width="100%">
