@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=header" width="100%">
 
-<!-- ===================== -->
+<!-- ==================== -->
 <!--        HEADER         -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrishVerma6797/KrishVerma6797/main/assets/3d-header.gif" width="100%" />
